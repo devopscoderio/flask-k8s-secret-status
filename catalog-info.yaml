@@ -11,7 +11,7 @@ spec:
   type: service
   owner: hello@devopscoder.io
   lifecycle: development
-
+---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
