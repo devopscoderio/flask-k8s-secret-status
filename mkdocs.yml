@@ -1,6 +1,8 @@
-site_name: a-unique-name-for-your-docs
+site_name: 'example-docs'
 site_description: An informative description
+
+nav:
+  - Home: index.md
+
 plugins:
   - techdocs-core
-nav:
-  - Getting Started: index.md
