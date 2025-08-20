@@ -3,6 +3,8 @@ kind: Component
 metadata:
   name: flask-k8s-secret-status
   description: An example of a Backstage application.
+  annotations:
+    dev.azure.com/project-repo: kubernetes/flask-secret
   # Example for optional annotations
   # annotations:
   #   github.com/project-slug: backstage/backstage

@@ -1,6 +1,10 @@
-site_name: a-unique-name-for-your-docs
-site_description: An informative description
+site_name: My Service Docs
+nav:
+  - Home: index.md
+  - Notes: notes.md
+  - Tyler: tyler.md
 plugins:
   - techdocs-core
-nav:
-  - Getting Started: index.md
+markdown_extensions:
+  - toc:
+      permalink: true
