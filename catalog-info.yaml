@@ -6,6 +6,9 @@ metadata:
   annotations:
     dev.azure.com/project: kubernetes
     dev.azure.com/build-definition: flask-k8s-secret-status #kubernetes/flask-secret
+    dev.azure.com/host: dev.azure.com
+    dev.azure.com/org: devopscoder
+    dev.azure.com/project-repo: kubernetes/flask-secret
   # Example for optional annotations
     # github.com/project-slug: backstage/backstage
     backstage.io/techdocs-ref: dir:.
