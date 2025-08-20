@@ -6,7 +6,6 @@ metadata:
   annotations:
     dev.azure.com/project-repo: devopscoderio/flask-k8s-secret-status #kubernetes/flask-secret
   # Example for optional annotations
-  annotations:
     # github.com/project-slug: backstage/backstage
     backstage.io/techdocs-ref: dir:.
 spec:
